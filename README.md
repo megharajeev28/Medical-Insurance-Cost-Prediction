@@ -1,5 +1,15 @@
 # MEDICAL INSURANCE COST PREDICTION USING MULTIPLE LINEAR REGRESSION
 
+## STUDENT DETAILS
+
+| Field | Details |
+|--------|---------|
+| **AUTHOR** | Megha Rajeev |
+| **REGISTRATION NUMBER** | 23MIM10047 |
+| **APPLICATION NUMBER** | IN26011193 |
+| **BATCH NUMBER** | 1A |
+| **EMAIL ID** | megha.23mim10047@vitbhopal.ac.in |
+
 ## OBJECTIVE
 
 The objective of this project is to develop a Multiple Linear Regression model to predict medical insurance charges based on customer demographic and health-related information. The project includes data understanding, exploratory data analysis (EDA), data preprocessing, model development, and performance evaluation.
